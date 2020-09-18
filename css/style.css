@@ -9,6 +9,7 @@ body{
 }
 
 nav{
+    display: block;
     color: transparent;
     text-decoration: none;
 }
