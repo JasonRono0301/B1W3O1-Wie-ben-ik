@@ -6,7 +6,7 @@ body{
 
 .container{
     width: 600px;
-    margin-top: 50px;
+    margin-top: 100px;
 }
 
 nav{
@@ -46,5 +46,18 @@ footer{
     border-radius: 4px;
     margin: 40px 0 25px 100px;
     padding: 25px;
+}
+
+img:nth-of-type(1){
+    float: right;
+    margin-top: 15px;
+}
+
+.gamen img:nth-of-type(1){
+    margin-right: 100px;
+}
+
+.gamen footer{
+    margin-top: 180px;
 }
 
